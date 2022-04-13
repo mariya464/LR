@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Sat, 09 Apr 2022 15:32:49 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Fri, 08 Apr 2022 15:32:49 GMT
+Set-Cookie: MTUserInfo=firstName&Elina&username&lol&address2&city&hash&12&address1&streer&lastName&Ivanova%0A; path=/
+Keep-Alive: timeout=5, max=90
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

@@ -1,0 +1,13 @@
+[hosts]
+clientservices.googleapis.com=
+sstats.adobe.com=
+api.fastproxy.app=
+checkipv4.windscribe.com=
+stat.fastproxy.app=
+terminator-6.ru=
+localhost=
+update.googleapis.com=
+content-autofill.googleapis.com=
+mc.yandex.ru=
+www.film.ru=
+safebrowsing.googleapis.com=

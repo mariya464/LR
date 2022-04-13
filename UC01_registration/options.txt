@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Professional\Documents\VuGen\UC01_registration
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\professional\documents\vugen\uc01_registration\\logfile.log
+c:\users\professional\documents\vugen\uc01_registration\\combined_UC01_registration.c
+c:\users\professional\documents\vugen\uc01_registration\\pre_cci.c

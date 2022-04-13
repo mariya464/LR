@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Professional\Documents\VuGen\UC06_BuyTicket_without_view_receipt
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\professional\documents\vugen\uc06_buyticket_without_view_receipt\\logfile.log
+c:\users\professional\documents\vugen\uc06_buyticket_without_view_receipt\\combined_UC06_BuyTicket_without_view_receipt.c
+c:\users\professional\documents\vugen\uc06_buyticket_without_view_receipt\\pre_cci.c

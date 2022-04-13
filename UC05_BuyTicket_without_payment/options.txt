@@ -1,0 +1,9 @@
+-+
+-DCCI
+-D_IDA_XL
+-DWINNT
+-IC:\Users\Professional\Documents\VuGen\UC05_BuyTicket_without_payment
+-IC:\Program Files (x86)\Micro Focus\LoadRunner\include
+-ec:\users\professional\documents\vugen\uc05_buyticket_without_payment\\logfile.log
+c:\users\professional\documents\vugen\uc05_buyticket_without_payment\\combined_UC05_BuyTicket_without_payment.c
+c:\users\professional\documents\vugen\uc05_buyticket_without_payment\\pre_cci.c

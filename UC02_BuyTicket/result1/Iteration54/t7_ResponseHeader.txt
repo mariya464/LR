@@ -1,0 +1,10 @@
+HTTP/1.1 200 OK
+Date: Sat, 09 Apr 2022 15:31:22 GMT
+Server: Apache/2.2.21 (Win32)
+Expires: Fri, 08 Apr 2022 15:31:23 GMT
+Set-Cookie: MTUserInfo=firstName&Mari&username&marii&address2&city&hash&73&address1&street&lastName&Duarte%0A; path=/
+Keep-Alive: timeout=5, max=90
+Connection: Keep-Alive
+Transfer-Encoding: chunked
+Content-Type: text/html; charset=ISO-8859-1
+

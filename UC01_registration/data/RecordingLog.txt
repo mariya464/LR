@@ -1,0 +1,348 @@
+[API Trapper      (3aec: 774)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (10d0:45bc)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[API Trapper      (476c:3cb4)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (476c:1950)] ------------------------------------------------------------------------------------------
+[Network Analyzer (476c:1950)] Load Network Traffic Analyzers:
+[Network Analyzer (476c:1950)]     Analyzer Module: WPLUS (value=)
+[Network Analyzer (476c:1950)]     Analyzer Module: WebBase (value=GetHttpProtocolAnalyzer:api_http_filter_x64.dll)
+[Network Analyzer (476c:1950)]     + Network Analyzer: api_http_filter_x64.dll @ GetHttpProtocolAnalyzer Loaded!
+[Network Analyzer (476c:1950)]     + Interception Auditors: WinInetWplusInterceptionAudit:api_http_filter_x64.dll
+[Network Analyzer (476c:1950)]     Analyzer Module: QTWeb (value=GetWebSocketProtocolAnalyzer:WebSocketAnalyzer_x64.dll)
+[Network Analyzer (476c:1950)]     + Network Analyzer: WebSocketAnalyzer_x64.dll @ GetWebSocketProtocolAnalyzer Loaded!
+[Network Analyzer (476c:1950)] ------------------------------------------------------------------------------------------
+[Network Analyzer (476c:3614)] Address lookup for User-PC = 192.168.0.110
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 173.194.73.94:443   (Service=)  (Sid=  1)  PROXIED!
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 209.85.233.84:443   (Service=)  (Sid=  2)  PROXIED!
+[Network Analyzer (476c:399c)]   (Sid:  1) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (476c: f4c)]   (Sid:  2) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[API Trapper      (13f0:3c34)] Recording in 64-bit mode: C:\Windows\system32\cmd.exe
+[API Trapper      (26a8:146c)] Recording in 64-bit mode: C:\Program Files\Adobe\Acrobat DC\Acrobat\Browser\WCChromeExtn\WCChromeNativeMessagingHost.exe
+[API Trapper      ( 954:12b0)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (476c:399c)]   (Sid:  1) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (476c: f4c)]   (Sid:  2) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Web Request      (476c:3614)] "GET /chrome-variations/seed?osname=win&channel=stable&milestone=99"   
+[Network Analyzer (476c:3614)]   (Sid:  1) Client -> Server @ : 458 bytes (SSL)(Service=HTTP)
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 172.67.191.206:443   (Service=)  (Sid=  3)  PROXIED!
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Network Analyzer (476c:3614)]   (Sid:  1) Server -> Client : 322 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:2f60)]   (Sid:  3) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 15.188.95.229:443   (Service=)  (Sid=  4)  PROXIED!
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 173.194.73.94:443   (Service=)  (Sid=  5)  PROXIED!
+[Network Analyzer (476c:4650)]   (Sid:  4) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (476c:3db4)]   (Sid:  5) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 104.20.27.217:443   (Service=)  (Sid=  6)  PROXIED!
+[Network Analyzer (476c:2f60)]   (Sid:  3) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (476c:4650)]   (Sid:  4) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (476c:3db4)]   (Sid:  5) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (476c:3614)] "POST /v2/config"   
+[Network Analyzer (476c:3614)]   (Sid:  3) Client -> Server @ : 795 bytes (SSL)(Service=HTTP)
+[Web Request      (476c:3614)] "GET /b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s72808428968208?AQB=1&ndh=1&pf=1&t=27%2F2%2F2022%2013%3A31%3A7%200%20-180&fid=44458C85CFBFAEE2-3F253411C32BAC1B&ce=UTF-8&pageName=DCBrowserExt%3AShim%3AVersion%3AUnknown%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.3.10&v2=sideload&v3=prod&v4=not_set&s=1536x864&c=24&j=1.6&v=N&k=Y&bh=8&AQE=1"   
+[Network Analyzer (476c:3614)]   (Sid:  4) Client -> Server @ : 1008 bytes (SSL)(Service=HTTP)
+[Network Analyzer (476c: 810)]   (Sid:  6) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (476c:3614)]   (Sid:  4) Server -> Client : 810 bytes (SSL) (Service=HTTP)
+[Web Request      (476c:3614)] "GET /b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s72902122313738?AQB=1&ndh=1&pf=1&t=27%2F2%2F2022%2013%3A31%3A7%200%20-180&fid=44458C85CFBFAEE2-3F253411C32BAC1B&ce=UTF-8&pageName=DCBrowserExt%3AExtension%3AStartup%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.3.10&v2=sideload&v3=prod&v4=unknown&AQE=1"   
+[Network Analyzer (476c:3614)]   (Sid:  4) Client -> Server @ : 968 bytes (SSL)(Service=HTTP)
+[Network Analyzer (476c: 810)]   (Sid:  6) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (476c:3614)]   (Sid:  4) Server -> Client : 810 bytes (SSL) (Service=HTTP)
+[Web Request      (476c:3614)] "GET /"   
+[Network Analyzer (476c:3614)]   (Sid:  6) Client -> Server @ : 2930 bytes (SSL)(Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  3) Server -> Client : 892 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  3) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Web Request      (476c:3614)] "GET /b/ss/adbcreatepdfplugin.prod/1/JS-1.6/s7660078818581?AQB=1&ndh=1&pf=1&t=27%2F2%2F2022%2013%3A31%3A7%200%20-180&fid=44458C85CFBFAEE2-3F253411C32BAC1B&ce=UTF-8&pageName=DCBrowserExt%3AOS%3Awin%3AOp&g=chrome-extension%3A%2F%2Fefaidnbmnnnibpcajpcglclefindmkaj%2F_generated_background_page.html&v1=15.1.3.10&v2=sideload&v3=prod&v4=unknown&AQE=1"   
+[Network Analyzer (476c:3614)]   (Sid:  4) Client -> Server @ : 956 bytes (SSL)(Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  6) Server -> Client : 333 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  4) Server -> Client : 810 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 104.21.20.57:443   (Service=)  (Sid=  7)  PROXIED!
+[Network Analyzer (476c:32dc)]   (Sid:  7) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (476c:32dc)]   (Sid:  7) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (476c:3614)]   (Sid:  7) Client -> Server @ : 722 bytes (SSL)(Service=HTTP)
+[Web Request      (476c:3614)] "POST /?e=start"   
+[Network Analyzer (476c:3614)]   (Sid:  7) Client -> Server @ : 1428 bytes (SSL)(Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 324 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 812 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 1282 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 1116 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 66 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 6 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Client -> Server @ : 685 bytes (SSL)(Service=HTTP)
+[Web Request      (476c:3614)] "POST /"   
+[Network Analyzer (476c:3614)]   (Sid:  7) Client -> Server @ : 2987 bytes (SSL)(Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 58 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 329 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 835 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 1369 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 284 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 6 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[User action                 ] StartTransactionEvent open_site [Network Analyzer (476c:3614)]   (Sid:  4) Connection Terminated (by Server)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 188.120.235.172:443 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10060)
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 188.120.235.172:443   (Service=)  (Sid=  8)  PROXIED!
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (476c: d74)]   (Sid:  8) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (476c: d74)]   (Sid:  8) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (476c:3614)] "GET /"   
+[Network Analyzer (476c:3614)]   (Sid:  8) Client -> Server @ : 928 bytes (SSL)(Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  8) Server -> Client : 7127 bytes (SSL) (Service=HTTP)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid=  9)  PROXIED!
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Web Request      (476c:3614)] "GET /WebTours/"   
+[Network Analyzer (476c:3614)]   (Sid:  9) Client -> Server @ : 669 bytes (Service=HTTP)
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 173.194.73.94:443   (Service=)  (Sid= 10)  PROXIED!
+[Network Analyzer (476c:3614)]   (Sid:  9) Server -> Client : 664 bytes  (Service=HTTP)
+[Network Analyzer (476c:12cc)]   (Sid: 10) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Web Request      (476c:3614)] "GET /WebTours/header.html"   
+[Network Analyzer (476c:3614)]   (Sid:  9) Client -> Server @ : 706 bytes (Service=HTTP)
+[Network Analyzer (476c:12cc)]   (Sid: 10) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Network Analyzer (476c:3614)]   (Sid:  9) Server -> Client : 1007 bytes  (Service=HTTP)
+[Web Request      (476c:3614)] "POST /service/update2/json?cup2key=11:9Mv2dc9Mp66w9tzEA8oCgwSXGfzuVfRPciQ744E79_0&cup2hreq=97068681e03606fc4078e397224440503cd757915e7e05514a2d1c6441f985f5"
+[Network Analyzer (476c:3614)]   (Sid: 10) Client -> Server @ : 1433 bytes (SSL)(Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 10) Client -> Server @ : 9274 bytes (SSL)(Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 10) Server -> Client : 1265 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 10) Server -> Client : 1326 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 10) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 11)  PROXIED!
+[Web Request      (476c:3614)] "GET /WebTours/images/hp_logo.png"   
+[Network Analyzer (476c:3614)]   (Sid:  9) Client -> Server @ : 622 bytes (Service=HTTP)
+[Web Request      (476c:3614)] "GET /cgi-bin/welcome.pl?signOff=true"   
+[Network Analyzer (476c:3614)]   (Sid: 11) Client -> Server @ : 717 bytes (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  9) Server -> Client : 898 bytes  (Service=HTTP)
+[Web Request      (476c:3614)] "GET /"   
+[Network Analyzer (476c:3614)]   (Sid:  8) Client -> Server @ : 964 bytes (SSL)(Service=HTTP)
+[Web Request      (476c:3614)] "GET /WebTours/images/webtours.png"   
+[Network Analyzer (476c:3614)]   (Sid:  9) Client -> Server @ : 623 bytes (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  9) Server -> Client : 4486 bytes  (Service=HTTP)
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 12)  PROXIED!
+[Network Analyzer (476c:3614)]   (Sid:  8) Server -> Client : 7126 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 11) Server -> Client : 1021 bytes  (Service=HTTP)
+[Web Request      (476c:3614)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (476c:3614)]   (Sid:  9) Client -> Server @ : 758 bytes (Service=HTTP)
+[Web Request      (476c:3614)] "GET /WebTours/home.html"   
+[Network Analyzer (476c:3614)]   (Sid: 12) Client -> Server @ : 754 bytes (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 12) Server -> Client : 1660 bytes  (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 11) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  9) Server -> Client : 1752 bytes  (Service=HTTP)
+[Web Request      (476c:3614)] "GET /WebTours/images/mer_login.gif"   
+[Network Analyzer (476c:3614)]   (Sid: 11) Client -> Server @ : 654 bytes (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 11) Server -> Client : 976 bytes  (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  9) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (476c:3614)] "GET /favicon.ico"   
+[Network Analyzer (476c:3614)]   (Sid:  9) Client -> Server @ : 623 bytes (Service=HTTP)
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Network Analyzer (476c:3614)]   (Sid:  9) Server -> Client : 424 bytes  (Service=HTTP)
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 173.194.73.95:443   (Service=)  (Sid= 13)  PROXIED!
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 87.250.251.119:443   (Service=)  (Sid= 14)  PROXIED!
+[Network Analyzer (476c:18a4)]   (Sid: 13) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (476c:18a4)]   (Sid: 13) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (476c:3614)] "GET /v1/pages/ChNDaHJvbWUvOTkuMC40ODQ0LjgyEhcJTfkiOcFFuDASBQ3njUAOEgUNzkFMeg==?alt=proto"   
+[Network Analyzer (476c:3614)]   (Sid: 13) Client -> Server @ : 534 bytes (SSL)(Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 13) Server -> Client : 607 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3524)]   (Sid: 14) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (476c:3524)]   (Sid: 14) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (476c:3614)] "GET /watch/54094225?wmode=7&page-url=https%3A%2F%2Ftraf.store%2Fplayer%2Fka%2Fka1418.html&page-ref=https%3A%2F%2Fterminator-6.ru%2F&charset=utf-8&browser-info=pv%3A1%3Agdpr%3A14%3Avf%3Auq3ipefhyn2n2dfa4fy%3Afu%3A0%3Aen%3Autf-8%3Ala%3Aru-RU%3Av%3A771%3Acn%3A1%3Adp%3A0%3Als%3A1428463593973%3Ahid%3A367010642%3Az%3A180%3Ai%3A20220327133207%3Aet%3A1648377127%3Ac%3A1%3Arn%3A767244941%3Arqn%3A84%3Au%3A16475487057774409%3Aw%3A520x300%3As%3A1536x864x24%3Ask%3A1.25%3Aifr%3A1%3Acpf%3A1%3Ans%3A1648377126531%3Ads%3A0%2C0%2C41%2C57%2C4%2C0%2C%2C236%2C24%2C%2C%2C%2C720%3Awv%3A2%3Aco%3A0%3Aadb%3A1%3Arqnl%3A1%3Ast%3A1648377127%3At%3A%D0%94%D0%BE%D0%BC-2%20%D1%81%D0%B2%D0%B5%D0%B6%D0%B8%D0%B5%20%D1%81%D0%B5%D1%80%D0%B8%D0%B8%20-%20%D1%81%D0%BC%D0%BE%D1%82%D1%80%D0%B5%D1%82%D1%8C%20%D0%BE%D0%BD%D0%BB%D0%B0%D0%B9%D0%BD%20%D0%B1%D0%B5%D1%81%D0%BF%D0%BB%D0%B0%D1%82%D0%BD%D0%BE!%20-%20%D0%93%D0%BB%D0%B0%D0%B2%D0%BD%D0%B0%D1%8F%20%D1%81%D1%82%D1%80%D0%B0%D0%BD%D0%B8%D1%86%D0%B0&t=gdpr(14)aw(1)ti(2)"   
+[Network Analyzer (476c:3614)]   (Sid: 14) Client -> Server @ : 2837 bytes (SSL)(Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 14) Server -> Client : 500 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 14) Server -> Client : 377 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  8) Connection Terminated (by Server)
+[Network Analyzer (476c:3614)]   (Sid: 12) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent open_site [Network Analyzer (476c:3614)]   (Sid: 11) Connection Terminated (by Server)
+[Network Analyzer (476c:3614)]   (Sid:  9) Connection Terminated (by Server)
+[Network Analyzer (476c:3614)]   (Sid: 10) Client -> Server @ : 380 bytes (SSL)(Service=HTTP)
+[Web Request      (476c:3614)] "POST /service/update2/json"   
+[Network Analyzer (476c:3614)]   (Sid: 10) Client -> Server @ : 1366 bytes (SSL)(Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 10) Server -> Client : 817 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 10) Server -> Client : 434 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 10) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Web Request      (476c:3614)] "POST /watch/54094225?page-url=https%3A%2F%2Ftraf.store%2Fplayer%2Fka%2Fka1418.html&charset=utf-8&browser-info=nb%3A1%3Acl%3A2622%3Aar%3A1%3Agdpr%3A14%3Avf%3Auq3ipefhyn2n2dfa4fy%3Afu%3A1%3Aen%3Autf-8%3Ala%3Aru-RU%3Av%3A771%3Acn%3A1%3Adp%3A1%3Als%3A1428463593973%3Ahid%3A367010642%3Az%3A180%3Ai%3A20220327133222%3Aet%3A1648377142%3Ac%3A1%3Arn%3A472950142%3Arqn%3A85%3Au%3A16475487057774409%3Aw%3A520x300%3As%3A1536x864x24%3Ask%3A1.25%3Aifr%3A1%3Acpf%3A1%3Aeu%3A0%3Ans%3A1648377126531%3Ads%3A%2C%2C%2C%2C%2C%2C%2C%2C%2C797%2C797%2C0%2C%3Awv%3A2%3Aco%3A0%3Aadb%3A1%3App%3A3629563401%3Arqnl%3A1%3Ast%3A1648377142&t=gdpr(14)lt(71000)aw(1)ti(0)&force-urlencoded=1"   
+[Network Analyzer (476c:3614)]   (Sid: 14) Client -> Server @ : 2526 bytes (SSL)(Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 14) Server -> Client : 444 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 14) Server -> Client : 43 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  2) Connection Terminated (by Client)
+[Network Analyzer (476c:3614)]   (Sid:  5) Connection Terminated (by Client)
+[Web Request      (476c:3614)] "POST /"   
+[Network Analyzer (476c:3614)]   (Sid:  7) Client -> Server @ : 886 bytes (SSL)(Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 816 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[User action                 ] StartTransactionEvent click_sign_up_now [Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 15)  PROXIED!
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Web Request      (476c:3614)] "GET /cgi-bin/login.pl?username=&password=&getInfo=true"   
+[Network Analyzer (476c:3614)]   (Sid: 15) Client -> Server @ : 792 bytes (Service=HTTP)
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 16)  PROXIED!
+[Network Analyzer (476c:3614)]   (Sid: 15) Server -> Client : 2665 bytes  (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 15) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (476c:3614)] "GET /WebTours/profileValidate.js"   
+[Network Analyzer (476c:3614)]   (Sid: 15) Client -> Server @ : 619 bytes (Service=HTTP)
+[Web Request      (476c:3614)] "GET /WebTours/images/button_next.gif"   
+[Network Analyzer (476c:3614)]   (Sid: 16) Client -> Server @ : 683 bytes (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 16) Server -> Client : 1056 bytes  (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 15) Server -> Client : 11601 bytes  (Service=HTTP)
+[Web Request      (476c:3614)] "GET /v1/pages/ChNDaHJvbWUvOTkuMC40ODQ0LjgyEjoJ5bXdhV-Ugn4SBQ3njUAOEgUNzkFMehIFDTg2iYcSBQ1raJpuEgUNT54n-BIFDWOTJ4cSBQ2iWbhJ?alt=proto"   
+[Network Analyzer (476c:3614)]   (Sid: 13) Client -> Server @ : 578 bytes (SSL)(Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 13) Server -> Client : 697 bytes (SSL) (Service=HTTP)
+[User action                 ] EndTransactionEvent click_sign_up_now [Network Analyzer (476c:3614)]   (Sid: 16) Connection Terminated (by Server)
+[Network Analyzer (476c:3614)]   (Sid: 15) Connection Terminated (by Server)
+[API Trapper      (28a0:2f88)] Recording in 64-bit mode: C:\Program Files\Google\Chrome\Application\chrome.exe
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 144.76.55.214:443   (Service=)  (Sid= 17)  PROXIED!
+[Network Analyzer (476c:2d88)]   (Sid: 17) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (476c:2d88)]   (Sid: 17) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[Web Request      (476c:3614)] "GET /"   
+[Network Analyzer (476c:3614)]   (Sid: 17) Client -> Server @ : 662 bytes (SSL)(Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 17) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 17) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 17) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 17) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 17) Server -> Client : 5563 bytes (SSL) (Service=HTTP)
+[Web Request      (476c:3614)] "GET /"   
+[Network Analyzer (476c:3614)]   (Sid: 17) Client -> Server @ : 694 bytes (SSL)(Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 17) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 17) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 17) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 17) Server -> Client : 16384 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 17) Server -> Client : 5563 bytes (SSL) (Service=HTTP)
+[User action                 ] StartTransactionEvent customer_profile [Web Request      (476c:3614)] "POST /"   
+[Network Analyzer (476c:3614)]   (Sid:  7) Client -> Server @ : 868 bytes (SSL)(Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 820 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  7) Server -> Client : 5 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 17) Connection Terminated (by Server)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 18)  PROXIED!
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Web Request      (476c:3614)] "POST /cgi-bin/login.pl"   
+[Network Analyzer (476c:3614)]   (Sid: 18) Client -> Server @ : 1080 bytes (Service=HTTP)
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 19)  PROXIED!
+[Network Analyzer (476c:3614)]   (Sid: 18) Server -> Client : 1472 bytes  (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 18) Server -> Client : 5 bytes  (Service=HTTP)
+[User action                 ] EndTransactionEvent customer_profile [Network Analyzer (476c:3614)]   (Sid: 18) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent open_home_page [Web Request      (476c:3614)] "GET /cgi-bin/welcome.pl?page=menus"   
+[Network Analyzer (476c:3614)]   (Sid: 19) Client -> Server @ : 908 bytes (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 19) Server -> Client : 819 bytes  (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 19) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (476c:3614)] "GET /cgi-bin/nav.pl?page=menu&in=home"   
+[Network Analyzer (476c:3614)]   (Sid: 19) Client -> Server @ : 904 bytes (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 19) Server -> Client : 1744 bytes  (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 19) Server -> Client : 5 bytes  (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid:  1) Connection Terminated (by Server)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Web Request      (476c:3614)] "GET /cgi-bin/login.pl?intro=true"   
+[Network Analyzer (476c:3614)]   (Sid: 19) Client -> Server @ : 899 bytes (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 19) Server -> Client : 1154 bytes  (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 19) Server -> Client : 5 bytes  (Service=HTTP)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 20)  PROXIED!
+[Web Request      (476c:3614)] "GET /WebTours/images/flights.gif"   
+[Network Analyzer (476c:3614)]   (Sid: 20) Client -> Server @ : 800 bytes (Service=HTTP)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (476c:3614)]   (Sid: 20) Server -> Client : 1024 bytes  (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 19) Connection Terminated (by Server)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (476c:3614)]   (Sid: 20) Connection Terminated (by Server)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 21)  PROXIED!
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 22)  PROXIED!
+[Web Request      (476c:3614)] "GET /WebTours/images/in_home.gif"   
+[Network Analyzer (476c:3614)]   (Sid: 21) Client -> Server @ : 800 bytes (Service=HTTP)
+[Web Request      (476c:3614)] "GET /WebTours/images/itinerary.gif"   
+[Network Analyzer (476c:3614)]   (Sid: 22) Client -> Server @ : 802 bytes (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 21) Server -> Client : 986 bytes  (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 22) Server -> Client : 1031 bytes  (Service=HTTP)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 23)  PROXIED!
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Web Request      (476c:3614)] "GET /WebTours/images/signoff.gif"   
+[Network Analyzer (476c:3614)]   (Sid: 23) Client -> Server @ : 800 bytes (Service=HTTP)
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 24)  PROXIED!
+[Network Analyzer (476c:3614)]   (Sid: 23) Server -> Client : 1049 bytes  (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 21) Connection Terminated (by Server)
+[Network Analyzer (476c:3614)]   (Sid: 22) Connection Terminated (by Server)
+[User action                 ] EndTransactionEvent open_home_page [Network Analyzer (476c:3614)]   (Sid: 23) Connection Terminated (by Server)
+[User action                 ] StartTransactionEvent click_sign_off [Web Request      (476c:3614)] "GET /cgi-bin/welcome.pl?signOff=1"   
+[Network Analyzer (476c:3614)]   (Sid: 24) Client -> Server @ : 923 bytes (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 24) Server -> Client : 1021 bytes  (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 24) Server -> Client : 5 bytes  (Service=HTTP)
+[Web Request      (476c:3614)] "GET /cgi-bin/nav.pl?in=home"   
+[Network Analyzer (476c:3614)]   (Sid: 24) Client -> Server @ : 755 bytes (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 24) Server -> Client : 1750 bytes  (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 24) Server -> Client : 5 bytes  (Service=HTTP)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #1. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #2. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Warning  (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080 (Service=) Failed attempt #3. Unable to connect to remote server: rc = -1 , le = 10061)
+[Net An. Error    (476c:1950)] Request Connection: Remote Server @ 0:0:0:0:0:0:0:1: - 1080  (Service=)  NOT PROXIED! (REASON: Unable to connect to remote server: rc = -1 , le = 10061)
+[Web Request      (476c:3614)] "GET /WebTours/home.html"   
+[Network Analyzer (476c:3614)]   (Sid: 24) Client -> Server @ : 851 bytes (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 24) Server -> Client : 193 bytes  (Service=HTTP)
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 127.0.0.1:1080   (Service=)  (Sid= 25)  PROXIED!
+[Network Analyzer (476c:1950)] Address lookup for User-PC = 192.168.0.110
+[Network Analyzer (476c:1950)] Request Connection: Remote Server @ 142.251.1.95:443   (Service=)  (Sid= 26)  PROXIED!
+[Network Analyzer (476c: d64)]   (Sid: 26) Negotiate Proxy -> Server SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_256_GCM_SHA384)
+[Network Analyzer (476c: d64)]   (Sid: 26) Negotiate Client -> Proxy SSL Handshake (ssl:TLSv1.3, ciphers:TLS_AES_128_GCM_SHA256)
+[User action                 ] EndTransactionEvent click_sign_off [Web Request      (476c:3614)] "GET /v4/threatListUpdates:fetch?$req=ChwKDGdvb2dsZWNocm9tZRIMOTkuMC40ODQ0LjgyGikIBRABGhsKDQgFEAYYASIDMDAxMAEQktYNGgIYBDa5bQsiBCABIAIoARopCAEQARobCg0IARAGGAEiAzAwMTABEKvAChoCGAQqr8IhIgQgASACKAEaKQgHEAEaGwoNCAcQBhgBIgMwMDEwARD-9woaAhgE4ayaXSIEIAEgAigBGicIARABGhkKDQgBEAYYASIDMDAxMAMQFBoCGARPXULuIgQgASACKAMaKAgBEAgaGgoNCAEQCBgBIgMwMDEwBBCMJxoCGASBqc30IgQgASACKAQaKAgPEAEaGgoNCA8QBhgBIgMwMDEwARCPcRoCGAR8jV7_IgQgASACKAEaJwgKEAgaGQoNCAoQCBgBIgMwMDEwARAHGgIYBO-el2UiBCABIAIoARonCAkQARoZCg0ICRAGGAEiAzAwMTABECAaAhgEfI3l_CIEIAEgAigBGigICBABGhoKDQgIEAYYASIDMDAxMAEQgg8aAhgEGfWEdiIEIAEgAigBGikIDRABGhsKDQgNEAYYASIDMDAxMAEQ-LQBGgIYBKNjcD8iBCABIAIoARopCAMQARobCg0IAxAGGAEiAzAwMTABEMqDChoCGASg3VcaIgQgASACKAEaKQgOEAEaGwoNCA4QBhgBIgMwMDEwARCbqgYaAhgER-b5wCIEIAEgAigBGigIEBABGhoKDQgQEAYYASIDMDAxMAEQ3RAaAhgErsc21iIEIAEgAigBIgIIAQ==&$ct=application/x-protobuf&key=AIzaSyBOti4mM-6x9WDnZIjIeyEU21OpBXqWBgw"   
+[Network Analyzer (476c:3614)]   (Sid: 26) Client -> Server @ : 1224 bytes (SSL)(Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 26) Server -> Client : 1408 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 26) Server -> Client : 901 bytes (SSL) (Service=HTTP)
+[Network Analyzer (476c:3614)]   (Sid: 24) Connection Terminated (by Server)
